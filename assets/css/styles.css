@@ -22,14 +22,6 @@
   opacity: 1;
 }
 
-body {
-  overflow-y: scroll;
-}
-
-
-body:: {
-  overflow-y: scroll;
-}
 
 .home-grid div {
   position: relative;
